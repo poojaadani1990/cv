@@ -1,0 +1,185 @@
+{
+    "basics": {
+        "name": "Carl V. Lewis",
+        "label": "Data Journalist, Mobile Developer, Digital Educator",
+        "picture": "img/avatar.png",
+        "email": "hello@carlvlew.is",
+        "phone": "+1 (912) 816-7007",
+        "website": "http://carlvlewis.net",
+        "summary": "A post-platform journalist, web developer, design thinker, product manager, interaction designer, digital media educator and data visualization developer with more than 7 years of experience in data journalism, news graphics, newsroom interactive storytelling, curriculum design, digital publishing, homepage editing, product management, media entrepreneurship, digital strategy/social media management, mobile front-end design/development, interaction programming and Wordpress/Drupal content management development.",
+        "location": {
+            "address": "266 Washington Ave, D9 Brooklyn",
+            "postalCode": "NY 11205",
+            "city": "Brooklyn",
+            "countryCode": "US",
+            "region": "New York"
+        },
+        "profiles": [
+            {
+                "network": "twitter",
+                "username": "@carlvlewis",
+                "url": "http://twitter.com/carlvlewis"
+            },
+            {
+                "network": "github",
+                "username": "@carlvlewis",
+                "url": "http://github.com/carlvlewis"
+            },
+            {
+                "network": "linkedin",
+                "username": "/in/carlvlewis",
+                "url": "http://linkedin.com/in/carlvlewis"
+            },
+            {
+                "network": "slideshare",
+                "username": "@carlvlewis",
+                "url": "http://slideshare.com/carlvlewis"
+            }
+        ]
+    },
+    "skills": [
+        {
+            "name": "Front-End Development",
+            "level": "Advanced",
+            "keywords": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "jQuery",
+                "Markdown",
+                "LaTeX",
+                "WordPress/Drupal development",
+                "Bootstrap, Foundation, basic MVCs",
+                "Angular.js (intermediate)"
+            ]
+        },
+        {"name": "Back-End Development",
+            "level": "Proficient",
+            "keywords": [
+                "Python",
+                "Django",
+                "PHP",
+                "Ruby on Rails"]
+        },
+        {
+            "name": "Data Analysis/Visualization",
+            "level": "Proficient-Advanced",
+            "keywords": [
+                "iPython Notebook",
+                "Matplotlib",
+                "d3.js",
+                "Geospatial/Mapping -- ArcGIS, CartoDB API, Google Maps API V3, QGis, geoJSON, Leaflet.js, Mapbox.",
+                "Resuable d3.js charting libraries (charts.js, d3plus.org)",
+                "Microsoft Excel/Google Sheets",
+                "Hadoop,, MongoDB, MySQL",
+                "Data Scraping: R, Python, Kimono, Beautiful Soup."
+            ]
+        }
+    ],
+    "work": [
+        {
+            "company": "Tow Center for Digital Journalism",
+            "position": "Research Assistant",
+            "website": "",
+            "startDate": "Oct. 2014",
+            "endDate": "present",
+            "summary": "",
+            "highlights": [
+                "Assisting in Tow Center's research endeavors.",
+                "Preparing own research for upcoming report on optimizing data visualization projects for mobile users."
+            ]
+        },
+        {
+            "company": "Vocativ",
+            "position": "Data Journalism Consultant",
+            "website": "",
+            "startDate": "Aug. 2014",
+            "endDate": "Sept. 2014",
+            "summary": "",
+            "highlights": [
+                "Invited to serve as one-month, in-house training consultant for Vocativ.com's rapidly expanding Manhattan newsroom, primarily teaching reporters how to incorporate and visualize data in their stories in a way that sheds a new light on the story for users."
+            ]
+        },
+        {
+            "company": "Center for Collaborative Journalism at Mercer University",
+            "position": "Adjunct instructor, faculty news organization advisor",
+            "website": "",
+            "startDate": "Jun. 2013",
+            "endDate": "present",
+            "summary": "Teach weeklong workshops on geospatial data, mobile development and JavaScript.",
+            "highlights": [
+                "Teach courses on JavaScript, HTML and CSS basics, mobile development best-practices, real-time reporting, data journalism and visual storytelling.",
+                "Serve alongside faculty, journalists and media professionals as an instructor for annual Camp CCJ for digital media students at Center for Collaborative Journalism.",
+                "Spoken on panels with editors and professors, including 'How is Journalism Different in the Digital Age?', 'Social Media for Journalists', 'Building a Brand as a Journalist' and 'Mobile App Development with Little-to-No Programming Experience.'",
+                "Led lightning talks on topics including 'Making the Business of Digital Journalism Work', 'Audience and Metrics' and 'Wireframing, Prototyping and UX.'-Serve as advisor for student news organization, The Cluster, leading quarterly workshops and remotely helping fix problems as they may arise on mercercluster.com. Oversaw 2014 redesign of site."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Columbia University Graduate School of Journalism",
+            "area": "M.S., Digital Media/Data Visualization, Honors.",
+            "studyType": "Masters",
+            "startDate": "Aug. 2011",
+            "endDate": "May 2012",
+            "summary": [
+                "Specializations in data visualization, interactive design, audience engagement and consumer reporting.", "Awarded multiple honors designations, including only honor's status in entire cohort for Data Journalism  and Journalism Business Models.", "Elected as online editor and officer for Society of Professional Journalists chapter, the school's official student governing body. Develo[ed a new SPJ site from scratch using Bootstrap as a framework built on top of WordPress to make a custom theme.", "Grew SPJ digital audience reach among class from 150 per week to 1,482 unique impressions per week.",
+                "Served as online editor for Society for Hispanic Journalists, building organization's website and leading initial marketing efforts.",
+                "Masters thesis given highest honors."
+            ],
+            "recommendations": "(Recommendations provided from Susan E. McGregor, Ava Seave and Daniel Medina; Arlene Morgan, Sree Srenevasian and Rebecca Castillo may also be contacted as references)."
+        },
+        {
+            "institution": "Mercer University",
+            "area": "B.A. in Journalism, B.A. in Southern Studies, Honors.",
+            "studyType": "Bachelor",
+            "startDate": "Aug. 2007",
+            "endDate": "May 2011",
+            "gpa": "3.94",
+            "summary": [
+                "Graduated summa cum laude with a 3.94 GPA, University Honors, Presidential Service Fellowship and the annual Jimmy Carter Award for Community Outreach and Public Service", "Named 'Most Outstanding Journalism Graduate' and 'Most Outstanding Southern Studies Graduate'."],
+            "recommendations": "(Recommendations provided from Dr. Jay Black, Grant Blankenship and Josh Rogers; Dr. Sarah Gardner, Debbie Blankenship, Andrew Haeg, Dr. Tom Huber, Dr. David A. Davis, Dr. John Chalfa and Dean Larry Brumley may also be contacted for references)."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Interactive: Savannah-Chatham Restaurant Inspection Database",
+            "description": "Worked with the Chatham County Health Department, which serves a population of more than 420,000 residents, to integrate county-wide restaurant inspection scores into an XML feed that populates an interactive map produced with CartoDB + Leaflet.js that includes filterable, color-coded markers for each score, allowing users to drill down geographically or filter to see the worst scores."
+        },
+        {
+            "title": "The 12 Percent: How People in the Bronx are Coping With the Unemployment Crisis",
+            "description": "Led design, production, project management, narrative and presentation of class-wide project on the unemployment crisis and its effects on the Bronx for The Bronx Ink."
+        },
+        {
+            "title": "SavannahNow St. Patrick's Day 2013 Mobile App",
+            "description": "Managed all aspects of project development for Savannah Morning News' mobile app for the 137th Annual St. Patrick's Day Parade and Festival, the second-largest annual St. Patrick's gathering the nation. Success of app, reaching nearly 10,000 downloads, drove savannahnow.com to reach record unique visitors and pageviews."
+        }
+    ],
+    "awards": [
+        {
+            "title": "Excellence in Social Media",
+            "date": "Aug. 2013",
+            "awarder": "Morris Publishing Group",
+            "summary": "Awarded Morris-wide 'Excellence in Social Media' out of all 48 Morris print and broadcast properties for strategic growth of Savannah Morning News & savannahnow.com's social media outreach."
+        },
+        {
+            "title": "MJ Bear Fellowship, Honorable Mention.",
+            "date": "June 2012",
+            "awarder": "Online News Association",
+            "summary": "Received honorable mention for highly-coveted MJ Bear Fellowship for a project I built for Savannah Morning News that sought to reinvent the classifieds ('SavSwap')."
+        },
+        {
+            "title": "Best Online News Project",
+            "date": "June 2013",
+            "awarder": "Georgia Press Association",
+            "summary": "Led coverage of 187th St. Patrick's Day Parade in Festival in Savannah for savannahnow.com, taking home the award of 'Best Online News Project' in the Georgia Press Association's 2013 Better Newspapers Competition."
+        }
+    ],
+    "interests": [
+        {
+            "keywords": [
+                "Machine learning, predictive analytics, newsroom collaboration, future news business models, display of multivariate datasets on mobile devices, journalism education, data visualization, information design, digital security/source protection, d3.js, color psychology."
+            ]
+        }
+    ]
+}
